@@ -1,6 +1,11 @@
-# Desafio de Projeto Git/GitHub da Digital Inovation One
-Projeto de primeiro repositório.
+# Repositório de Estudos 😁
 
-### Sintaxes para utilizar:
+![Ed](https://cdn.myanimelist.net/s/common/uploaded_files/1472507791-ef41154fe8015c5baec81ccbfe2978c4.jpeg)
+>**Notas de estudos**
+`Notion`
 
-[Sintaxes de Markdown](https://github.com/Gkacor/Livroreceitas.git)
+- Digital Inovation One
+- Engenharia de Software
+
+
+
