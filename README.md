@@ -1,5 +1,8 @@
-# Desafio de Projeto Git/GitHub da Digital Inovation One
-Projeto de primeiro repositório.
+# Repositório de Estudos
+
+Notas de estudos da DIO e da faculdade de Engenharia de Software.
+
+
 
 ### Sintaxes para utilizar:
 
