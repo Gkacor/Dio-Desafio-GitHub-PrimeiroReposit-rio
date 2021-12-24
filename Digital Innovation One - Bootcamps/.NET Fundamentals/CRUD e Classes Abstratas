@@ -1,0 +1,14 @@
+CRUD
+o que é?
+CREATE / READ / UPDATE / DELETE
+Um cadastro básico.
+
+Classes abstratas
+Podem conter métodos abstratos. 
+Um método abstrato é declarado, porém não tem implementação.
+Não pode ser instanciada.
+Exige subclasses que tenham implementação.
+
+Interface
+Semelhante a uma classe abstrata, mas não possui atributos e não pode definir como os métodos devem ser implementados.
+É basicamente uma lista de métodos que devem ser implementados.
