@@ -42,3 +42,10 @@ Outros tipos de sistemas de informação:
 - Business intelligence(BI) - Informação dentro dos negócios.
 - Database(CRM) - Clientes.
 - ERP - Sistemas integrados.
+
+### Papel da informação dentro de uma empresa
+
+- conhecimento
+- operação
+- tipos de serviço
+- direcionamento
