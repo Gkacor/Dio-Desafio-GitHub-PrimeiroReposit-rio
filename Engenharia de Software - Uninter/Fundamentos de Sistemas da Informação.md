@@ -49,3 +49,14 @@ Outros tipos de sistemas de informação:
 - operação
 - tipos de serviço
 - direcionamento
+
+### Sistemas de informações Empresariais(conforme nível decisório)
+
+- Sistemas de de processamento de transações(SPTs) -  Registro de dados produzidos pela informação
+- Sistemas de informações gerenciais(SIGs) - informações gerenciais, planejamento e gestão da operação
+
+- Sistemas de informações estratégicas(SISs)
+
+Sistemas de apoio a decisão(SADs)      Sistemas de apoio aos executivos(SAEs)
+
+Apoio ás decisões complexas, simulações            Visão estratégica dos negócios, indicadores de                                                                        1                                                 2 desempenho
