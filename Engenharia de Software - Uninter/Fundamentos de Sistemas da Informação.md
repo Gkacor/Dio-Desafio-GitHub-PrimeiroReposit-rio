@@ -56,7 +56,58 @@ Outros tipos de sistemas de informação:
 - Sistemas de informações gerenciais(SIGs) - informações gerenciais, planejamento e gestão da operação
 
 - Sistemas de informações estratégicas(SISs)
+1.        Sistemas de apoio a decisão(SADs)     
 
-Sistemas de apoio a decisão(SADs)      Sistemas de apoio aos executivos(SAEs)
+Apoio ás decisões complexas, simulações   
 
-Apoio ás decisões complexas, simulações            Visão estratégica dos negócios, indicadores de                                                                        1                                                 2 desempenho
+1. Sistemas de apoio aos executivos(SAEs)
+
+Visão estratégica dos negócios, indicadores de                                                                                                                                                                                             desempenho 
+
+### SPT
+
+Entrada de dados - processamento(←→ armazenamento) - documentos e relatórios
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49d27c82-a3fb-4921-beac-7cd270f91418/Untitled.png)
+
+Os dados serão trabalhados e armazenados.
+
+Por exemplo, o documento sobre um funcionário será utilizado para vários processos.
+
+Será utilizado dentro de áreas funcionais e decisórias também.
+
+### SIG
+
+Os dados que entram no sistema de processamento transacional passa para o banco de dados e é armazenado, para então ser utilizado no nível gerencial.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45bd298f-828f-4da6-80fe-8ca21be48fb3/Untitled.png)
+
+Por exemplo, perceber se um funcionário está sendo pago em relação ao seu rendimento. Ocorre no nível gerencial.
+
+### SAD
+
+Sistemas de apoio à decisão.
+
+Exemplo: Trabalho com cargas e importação/exportação. Saber qual o peso da carga e etc é muito importante para a função.
+
+Para decisões com necessidade de maior informações.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/504988ae-5838-44a6-b078-5db4e7ae2f92/Untitled.png)
+
+### SAE
+
+Informações que auxiliem na decisão de apoio.
+
+Por exemplo, se tal produto vale a pena continuar em produção.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/242d4e82-3933-4295-b31c-954133f0d4bd/Untitled.png)
+
+### Processo de desenvolvimento de um sistema de informação
+
+Ciclo de vida do desenvolvimento:
+
+Implementação → manutenção → levantamento das necessidades → análise de alternativas → projeto → desenvolvimento → implementação
+
+Devem ser levados em consideração todos os passos anteriores para angariar os custos e o projeto ao todo e quem o está utilizando.
+
+Após implementado podem ocorrer erros e implementação de novas “features”.
