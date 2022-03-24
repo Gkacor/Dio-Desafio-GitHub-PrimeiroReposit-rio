@@ -111,3 +111,50 @@ Implementação → manutenção → levantamento das necessidades → análise 
 Devem ser levados em consideração todos os passos anteriores para angariar os custos e o projeto ao todo e quem o está utilizando.
 
 Após implementado podem ocorrer erros e implementação de novas “features”.
+
+### Principais componentes da Segurança da Informação
+
+O que diferencia uma tecnologia da outra? Os componentes presentes dentro dos equipamentos.
+
+TI está presente desde empresas de pequeno porte até grande porte.
+
+Funções básicas de segurança dos sistemas de informação:
+
+- Dissuasão: O que vai acontecer e quando.
+- Prevenção: Precauções.
+- Detecção: Testes.
+- Contenção: Como será arrumado em caso de emprevisto.
+- Recuperação: Relacionado com contenção.
+- Resturação: Como restaurar a partir da falha.
+
+### Principais vulnerabilidades dentro de um SI
+
+Integridade: Ameaças físicas e ambientais; erros humanos/ fraudes; erro de processamento; sabotagens físicas.
+
+Disponibilidade: Falhas em sistemas ou nos diversos ambientes computacionais; sabotagens lógicas.
+
+Divulgação de informação: Divulgação internacional e nacional de informações.
+
+Alterações não autorizadas: Alteração não intencional e intencional.
+
+Preocupações básicas:
+
+- Evitar a ameaça → plano de segurança
+- identificar ameaças → medidas de segurança
+- minimizar dano → plano de contingência
+
+### Segurança dos dados e dos sistemas
+
+- Localização: onde vai ficar o local de trabalho.
+- Construção: como vai ser feito.
+- Instalações elétricas: componentes físicos atualizados.
+- Condições ambientais: fenômeno que pode afetar a organização, condições climáticas.
+- Prevenção e combate a incêndio: fatores ambientais e sabotagens humanas.
+- Controle de acesso: como funciona o controle de quem entra e sai do ambiente.
+- Recursos humanos e padrões de trabalho: analizando o contexto geral.
+
+### Segurança lógica
+
+- Segurança de redes: quem tem acesso, hackers.
+- segurança dos sistemas: quem tem acesso ao sistema, id de usuário.
+- segurança do usuário: login salvo, sabotagens lógicas.
