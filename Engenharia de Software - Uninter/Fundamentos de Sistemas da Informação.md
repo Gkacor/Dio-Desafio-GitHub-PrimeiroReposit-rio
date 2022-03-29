@@ -158,3 +158,142 @@ Preocupações básicas:
 - Segurança de redes: quem tem acesso, hackers.
 - segurança dos sistemas: quem tem acesso ao sistema, id de usuário.
 - segurança do usuário: login salvo, sabotagens lógicas.
+
+### Sistemas ERP
+
+Consistido por um pacote de softwares.
+
+Construído com base nas melhores práticas de mercado.
+
+Começou na década de 60.
+
+A mais famosa é a SAP.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0566fc71-c955-489b-a5f3-293968fd092c/Untitled.png)
+
+É muito utilizado por causa de sua função global. A empresa inteira pode ser acessada dentro do mesmo sistema.
+
+### SCM
+
+Supply Chain Management
+
+Sistema de gestão de cadeias de suprimento
+
+Exemplo de funcionamento:
+
+O consumidor fornece a informação da remodelação necessária para o produto continuar vendendo.
+
+Empresa → varejista → consumidor → empresa
+
+### CRM
+
+Customer Relationship Management
+
+Gerenciamento de relacionamento com o cliente
+
+Ligar para o cliente para perguntar a sua satisfação com o produto.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a6aa0d1-6382-484f-8036-8e1ea44dee72/Untitled.png)
+
+A ideia é monitorar e melhorar/manter a fidelidade do cliente.
+
+### SGC
+
+Sistema de Gestão do Conhecimento
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/629b1f8c-9060-42ff-a630-649e2c8804c2/Untitled.png)
+
+É um processo reatroativo. Descoberto o problema, volta ao início para a implementação. Sistema de Alto nível gerencial(tomada de decisão).
+
+### Business Inteligence(BI)
+
+Possibilita que os executivos identifiquem situação de decisão e oportunidades de negócio. Apresentam um desempenho geral da organização.
+
+Geralmente um sistema integrado.
+
+Data Warehouse
+
+Para extrair a informação do DW:
+
+Data Mining
+
+Ferramentas Olap(online analytical processing): mais específico.
+
+### Gestão de Documentos
+
+- Document Imaging: gerenciamento de imagens e documentos
+- Document management: gerencia o flux de documentos digitais
+- Workflow: Fluxo automatizado de processos, monitorar, gerenciar, e dispara ações e tarefas
+- Cold e ERM cold computer output to laser disk: sistema baseado em saída de dados de computador para discos ópticos
+- Forms processing: processamento de formulários
+
+### IA(inteligência artificial) e aplicações de decisão
+
+- Sistema especialista
+- Algoritmos genéticos
+- Redes Neurais
+- Sistemas de lógica difusa
+- Agentes Inteligentes
+
+Exemplo de utilização da IA:
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a5738d5d-1948-4360-9f23-e6f1960d1a56/Untitled.png)
+
+É funcional de acordo com as informações inseridas nele. Não pode solucionar um problema sem informações, por exemplo, pois não é humano.
+
+### Negócios Eletrônicos
+
+De acordo com Belmiro(2014), qualquer transação que envolva busca, pesquisa, aquisição de algum artigo ou algo, caracteriza a participação em comércio eletrônico.
+
+A utilização da internet por pessoas comuns começou em 1995.
+
+e-Business: Todo tipo de comércio usando a a internet.
+
+e-Commerce: Relações, efetivações pela internet.
+
+Categorias:
+
+B: business, empresa ou fornecedor.
+
+C: consumer, consumidor ou cliente.
+
+E: employee, empregado.
+
+G: government, governo.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1bc7e8a-653d-454a-be3c-8e4525c26198/Untitled.png)
+
+<aside>
+💡 **Landing Page**: Conteúdo direto, objetivo as vezes de criar um cadastro.
+
+</aside>
+
+<aside>
+💡 **Big Data**: Banco de dados com todas as informações disponíveis na internet, as empresas explorar para distribuir produtos e promos para o consumidor que é buscado.
+
+</aside>
+
+### TI Verde
+
+Pensamento na degradação do meio ambiente.
+
+- Descarte de lixo eletrônico
+- Reciclagem
+- Otimização de hardwares para não criar tanto lixo
+- Melhor utilização de energia
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/951ccedd-741e-4db6-87eb-d258d7d58880/Untitled.png)
+
+Benefícios dos serviços de nuvem:
+
+- Custos
+- Felexibilidade
+- Mobilidade
+- Segurança
+- Menor equipe de TI
+- Recuperação de dados
+
+### Desafios dos Sistemas de Informação
+
+- Exportação
+- Criar trabalhos globais(pode ser viável ou não)
