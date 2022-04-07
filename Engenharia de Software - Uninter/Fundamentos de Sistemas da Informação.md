@@ -296,4 +296,4 @@ Benefícios dos serviços de nuvem:
 ### Desafios dos Sistemas de Informação
 
 - Exportação
-- Criar trabalhos globais(pode ser viável ou não)
+- Criar trabalhos globais(pode ser viável ou não).
