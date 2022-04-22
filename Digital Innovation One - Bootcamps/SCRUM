@@ -1,1 +1,69 @@
-SCRUM
+# Fundamentos
+
+### Gestão de projetos:
+
+- Tradicional(waterfall): Só permite que o projeto avance depois que completar uma fase. ex: software finalizado, depois vai para os testes e produção. Demanda muito tempo(meses). Escopo é preditivo, definido na fase inicial. Resistente à mudanças.
+- Ágil: O software é construído por partes(incremental), fatiado. Escopo definido ao longo do projeto(adaptativo). Mundanças feitas de acordo com o feedback.
+
+O SCRUM é um framework de gerenciamento de projetos ágeis. São utilizadas equipes pequenas e multidisciplinares para produzir melhores resultados.
+
+### SCRUM
+
+Pilares:
+
+Transparência -  Adaptação - Inspeção
+
+Razões para adotar:
+
+Desenvolvido e entregue em partes menores(2 a 4 semanas) com feedback constante;
+
+Melhor gerenciamento de riscos;
+
+Comprometimento da equipe(reuniões diárias);
+
+Maior valor para o negócio(priorização do backlog);
+
+Melhoria contínua;
+
+Usuários envolvidos durantes todo o ciclo;
+
+Por que utiliza framework ágil? 
+
+Minimum Viable Product: entrega o produto(software) em partes, a partir do mínimo possível que ja seja utilizável.
+
+Backlog: Composto por épicos(incremento sem muitos detalhes, ajuda a direcionar o caminho) e estórias(detalhamento dos épicos. Um épico se divide em várias estórias, que é onde fica escrito o que deve acontecer e suas regras de negócio.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2895beb8-44de-4d8e-8490-bca20811ea5e/Untitled.png)
+
+Ordem:
+
+Épico
+
+Estória(sempre nível de negócio)
+
+Tarefa(conjunto de atividades que o time de desenvolvimento desempenha para entregar a estória)
+
+Critério de aceite:
+
+Lista de critérios que precisam ser alcançados para que a User Story atenda os requisitos do usuário e seja aceita pelo PO.
+
+Objetivo de definir limites para as user stories. Ajuda o PO a detalhar em alto nível o que é necessário para entregar valor ao cliente.
+
+### Time SCRUM
+
+Papéis:
+
+Product Owner(PO): Representante da área de negócios, Prioriza as funcionalidades de acordo com o valor do negócio. Prioriza o backlog.
+
+SCRUM master(SM): Garantir uso correto do SCRUM, age como facilitador, auxilia o PO nas estimativas do backlog, treina o time em autogerenciamento.
+
+Time de desenvolvimento(DEV): Desenvolve, testa, cria e desenha o software.
+
+### Cerimônias do SCRUM
+
+- Sprint: Principal evento. 30 dias corridos. Reunião de planejamento.
+
+O que fazer? Como fazer? 
+
+- Reunião de pé para não ficar acomodado.
+- Reunião das lições aprendidas.
